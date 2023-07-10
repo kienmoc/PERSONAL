@@ -69,7 +69,7 @@ body {
     display: flex;
     align-items: center;
     position: relative;
-    background: url(img/batman.jpg) no-repeat;
+    background: url(../img/batman.jpg) no-repeat;
     z-index: 1;
     background-size: cover;
     background-position: center;
